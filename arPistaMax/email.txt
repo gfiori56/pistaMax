@@ -1,0 +1,23 @@
+SE HAI POSSIBILITA'DI RICEVERE LA POSTA DIRETTAMENTE SUL PC COLLEGATO ALLA PISTA
+
+1) scarica il file "PistaMaxV2.zip"
+2) scompattalo (per esempio nella cartella Documenti) usando la password "max" per ottenere il file "PistaMaxV2.b"
+3) rinomina il file "PistaMaxV2.b" in "PistaMaxV2.exe" 
+4) prova a lanciare "PistaMaxV2.exe"
+5) se il programma parte, copialo sovrascrivendo quello attuale nella cartella c:\util\PistaMax (*)
+
+ALTRIMENTI
+
+1) scarica il file "PistaMaxV2.zip"
+2) scompattalo (per esempio nella cartella Documenti) usando la password "max" per ottenere il file "PistaMaxV2.b"
+3) rinomina il file "PistaMaxV2.b" in "PistaMaxV2.exe"
+4) copia "PistaMaxV2.exe" in una memoria USB
+5) collega la memoria USB al PC che sarà collegato alla pista
+6) prova a lanciare dalla memoria USB il programma "PistaMaxV2.exe"
+7) se il programma parte, copialo sovrascrivendo quello attuale nella cartella c:\util\PistaMax (*)
+
+
+(*) Esiste l'alternativa (che mi piace meno) di copiare "PistaMaxV2.exe" direttamente nella cartella "PISTA MASSIMO" 
+    che si trova sul Desktop. 
+
+Fammi sapere come è andata, ciao Gianni

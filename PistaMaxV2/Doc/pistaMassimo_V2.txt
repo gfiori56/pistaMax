@@ -1,0 +1,32 @@
+2023-10-19 Incontro con(export csv) Massimo ed Angelo
+---------------------------------------------------------
+- Indipendenza fra le macchinine con partenza PRIMA degli interruttori:
+  - tempo iniziale stabilito per ogni macchinina al primo scattare del proprio interruttore,
+    le macchinine possono quindi partire una dopo l'altra
+- Selezione modalità gara con obbiettivi: a numero giri, a tempo che finisce concludendo il giro corrente
+  - la vittoria si stabilirà a consuntivo quando entrambe le macchinine avanno raggiunto il loro obbiettivo 
+    o si è premuto il pulsante STOP
+- Selezione modalità gara: senza limiti
+  - la vittoria si stabilirà a consuntivo quando si preme il pulsante STOP
+- Possibilità esclusione di una macchinina (vedere se viene compresa in questa impostazione)
+- 2 Campi per dare i nomi alle macchinine
+- Mostrare per ogni macchinina la tabella dei tempi per ogni giro
+- Creazione MENU con Apri, Salva, Export csv, Esci, 
+
+NOTE
+Il diametro del display del PC di massimo è circa 40 cm
+Cambiare nome al programma per conservare il precedente
+
+
+2023-12-21 Telefonata con Massimo
+--------------------------------------------
+Nella gara a "numero di giri" con due giocatori verrà visualizzato il distacco del primo rispetto a secondo
+
+Descrizione funzione "Confronto"
+- si aprono più file .pm2 salvati dove il numero di giri eseguito per ogni gara è sempre lo stesso
+- se un concorrente (riconoscibile dal nome) ha eseguito più gare, si prende la gara con il miglior tempo
+- verrà aperta una finesta con la lista dei concorrenti ordinata secondo i tempi migliori e relativi distacchi
+
+
+
+  
