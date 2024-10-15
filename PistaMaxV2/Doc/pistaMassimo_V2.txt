@@ -1,4 +1,4 @@
-2023-10-19 Incontro con(export csv) Massimo ed Angelo
+2023-10-19 Incontro con Massimo ed Angelo
 ---------------------------------------------------------
 - Indipendenza fra le macchinine con partenza PRIMA degli interruttori:
   - tempo iniziale stabilito per ogni macchinina al primo scattare del proprio interruttore,
